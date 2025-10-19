@@ -1,0 +1,14 @@
+title: プライバシーポリシー
+description: アプリケーションのプライバシーポリシーページ
+lang: ja
+
+# Jekyll設定
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+
+# 相対リンクの設定
+relative_links:
+  enabled: true
+  collections: false

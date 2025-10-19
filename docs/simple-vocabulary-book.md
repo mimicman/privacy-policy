@@ -1,4 +1,11 @@
-# プライバシーポリシー
+---
+layout: default
+title: SimpleVocabularyBook - プライバシーポリシー
+---
+
+# SimpleVocabularyBook - プライバシーポリシー
+
+[← トップページに戻る](index.md)
 
 SimpleVocabularyBook（以下「本アプリ」）は、ユーザーの皆様のプライバシーを重視し、個人情報の保護に努めています。本プライバシーポリシーは、本アプリにおける個人情報の取り扱いについて説明します。
 
